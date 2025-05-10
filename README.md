@@ -141,5 +141,7 @@ This project is open-source and available under the MIT License.
 For any questions or collaboration inquiries, you can reach out via:
 
 - GitHub: [@tbhvishal](https://github.com/tbhvishal)
+- Email: [vishal95844@gmail.com](vishal95844@gmail.com)
+
 
 Let's make weather info easily accessible to everyone! 🌤️
